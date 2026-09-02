@@ -1,6 +1,5 @@
 # DBOS-Resource-Management-Platform
 DBOS-Based Resource Management Platform with EV Charging as a Real-World Workload
-Project Description/Abstract 
 •The proposed project presents a DBOS-Based Resource Management Platform that combines
 Operating System resource management concepts with Database Management System capabilities.
 • The platform uses a database as a central source of system state and resource information.
